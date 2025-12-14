@@ -88,11 +88,11 @@ Password: admin
 
 ### 🔐 Admin Login Screen
 
-![Admin Login](Screenshot\(8\).png)
+![Admin Login](images/Screenshot(8).png)
 
 ### 🧭 Admin Dashboard
 
-![Admin Dashboard](Screenshot\(9\).png)
+![Admin Dashboard](Images/Screenshot(9).png)
 
 ---
 
@@ -109,4 +109,5 @@ Password: admin
 ## 🙌 Author
 
 **Nishant Dubey** 
+
 GitHub: [@dubeyynishant](https://github.com/dubeyynishant)
