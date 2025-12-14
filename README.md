@@ -88,11 +88,11 @@ Password: admin
 
 ### 🔐 Admin Login Screen
 
-![Admin Login](images/Screenshot(8).png)
+![Admin Login](https://github.com/dubeyynishant/Student-Management-Project/blob/main/Images/Screenshot%20(8).png)
 
 ### 🧭 Admin Dashboard
 
-![Admin Dashboard](Images/Screenshot(9).png)
+![Admin Dashboard](https://github.com/dubeyynishant/Student-Management-Project/blob/main/Images/Screenshot%20(9).png)
 
 ---
 
